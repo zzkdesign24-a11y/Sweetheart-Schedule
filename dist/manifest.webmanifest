@@ -1,0 +1,12 @@
+{
+  "name": "陶雨欣宝宝的专属拍摄日程",
+  "short_name": "雨欣日程",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "icons/icon.svg", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/maskable.svg", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
